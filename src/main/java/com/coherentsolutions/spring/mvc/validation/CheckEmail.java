@@ -11,7 +11,7 @@ import java.lang.annotation.Target;
 @Target(ElementType.FIELD)
 @Retention(RetentionPolicy.RUNTIME)
 @Constraint(validatedBy = CheckEmailValidator.class)
-public @interface CheckMail {
+public @interface CheckEmail {
     public String value() default "coherentsolutions.com";
     public String message() default "email must end with @coherentsolutions.com";
 

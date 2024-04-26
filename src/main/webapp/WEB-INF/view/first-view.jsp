@@ -1,6 +1,12 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h2>I wish you luck in Spring MVC learning</h2>
+<h2>I wish you luck in Spring MVC learning!!!</h2>
+<br>
+<br>
+<p>
+    <a href="askDetails">Please write your details</a>
+</p>
+
 </body>
 </html>
